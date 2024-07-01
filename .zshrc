@@ -18,3 +18,4 @@ export PATH="/Users/kevmo/Library/Python/3.9/bin:$PATH"
 
 # preexec() { timer=${timer:-$SECONDS} }
 # precmd() {  if [ $timer ]; then echo "Last command took $(($SECONDS - $timer)) seconds to execute."; fi; timer=$SECONDS }
+alias code="open -a Visual\ Studio\ Code"
